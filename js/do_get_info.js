@@ -57,7 +57,6 @@ function doSetSinhVien() {
         resolve();
     });
 }
-
 function doComplete() {
     return new Promise(function (resolve, reject) {
         setTimeout(() => {
