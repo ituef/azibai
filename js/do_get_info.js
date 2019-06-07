@@ -100,3 +100,4 @@ function showErrorMessage(error) {
         loading.classList.add('is-hidden');
     },1000);
 }
+
